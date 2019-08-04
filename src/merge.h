@@ -1,1 +1,2 @@
-#define TEXT "Hello world"
+#define TEXT "Hello world and Earth!"
+
